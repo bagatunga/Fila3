@@ -1,0 +1,5 @@
+Item
+----
+- Propiedad: nombre (String)
+- Constructor: recibe nombre
+- Getter: getNombre()
