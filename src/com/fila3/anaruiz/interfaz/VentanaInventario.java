@@ -1,0 +1,1 @@
+Esta es la ventana del inventario :D
