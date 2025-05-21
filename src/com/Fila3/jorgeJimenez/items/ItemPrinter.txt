@@ -1,0 +1,6 @@
+ItemPrinter
+-----------
+- Método printItems(List<Item>): recorre la lista y hace System.out.println(item.getNombre())
+- Uso:
+    ItemPrinter printer = new ItemPrinter();
+    printer.printItems(listaDeItems);
