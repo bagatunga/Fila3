@@ -1,0 +1,5 @@
+ItemManager
+-----------
+- Lista de Item
+- Método addItem(Item): añade un ítem
+- Método getItems(): devuelve la lista

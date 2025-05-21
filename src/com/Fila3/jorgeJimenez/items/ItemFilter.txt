@@ -1,0 +1,6 @@
+ItemFilter
+----------
+- Método filterByName(List<Item> items, String nombre):
+    devuelve una lista con los ítems cuyo getNombre() coincide con 'nombre'.
+- Ejemplo de uso:
+    List<Item> filtrados = ItemFilter.filterByName(lista, "Espada");
