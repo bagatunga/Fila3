@@ -1,0 +1,2 @@
+aqui creariamos el personaje
+

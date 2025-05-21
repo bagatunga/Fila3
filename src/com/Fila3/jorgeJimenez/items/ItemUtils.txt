@@ -1,0 +1,8 @@
+ItemUtils
+---------
+- Método countItems(List<Item> items):
+    devuelve el número total de ítems.
+- Método toCsv(List<Item> items):
+    devuelve un String con todos los nombres separados por comas.
+- Ejemplo:
+    String csv = ItemUtils.toCsv(lista);
